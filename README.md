@@ -66,16 +66,9 @@ The project explores different aspects of the job market, including:
 
 ## 📈 Visualizations
 
-1.C:\Users\MSI2\OneDrive\Desktop\AI & Data Science Job Market Analysis\remote ratio analytsis.png
-2.C:\Users\MSI2\OneDrive\Desktop\AI & Data Science Job Market Analysis\top 15 most demand jobs roles.png
-3.C:\Users\MSI2\OneDrive\Desktop\AI & Data Science Job Market Analysis\scatter plot of high jobs demand and high salary .png
-4.C:\Users\MSI2\OneDrive\Desktop\AI & Data Science Job Market Analysis\Heatmap Correlation Matrix of Numerical Variables.png
-5.C:\Users\MSI2\OneDrive\Desktop\AI & Data Science Job Market Analysis\Heatmap of company size wise job analysis ....png
-6.C:\Users\MSI2\OneDrive\Desktop\AI & Data Science Job Market Analysis\Heatmap of Top Job Roles Across Experience Levels.png
-7.C:\Users\MSI2\OneDrive\Desktop\AI & Data Science Job Market Analysis\industry wise jobs and employer analysis.png
-8.C:\Users\MSI2\OneDrive\Desktop\AI & Data Science Job Market Analysis\Distribution of Years of Experience.png
-9.C:\Users\MSI2\OneDrive\Desktop\AI & Data Science Job Market Analysis\company size wise jobs analysis....png
-10.C:\Users\MSI2\OneDrive\Desktop\AI & Data Science Job Market Analysis\Location wise employee residence.....png
+<img width="957" height="788" alt="image" src="https://github.com/user-attachments/assets/905bc814-d5f3-4c98-bbc8-9a1efdd49f3a" />
+
+
 
 ##  Key Findings
 
