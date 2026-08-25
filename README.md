@@ -66,7 +66,33 @@ The project explores different aspects of the job market, including:
 
 ## 📈 Visualizations
 
+1. Correlation Analysis 📊
+
 <img width="957" height="788" alt="image" src="https://github.com/user-attachments/assets/905bc814-d5f3-4c98-bbc8-9a1efdd49f3a" />
+2.Remote wise jobs analysis...
+<img width="917" height="814" alt="image" src="https://github.com/user-attachments/assets/cd26dc37-db83-4f1d-9fef-8e331084815e" />
+3.Top 15 Most In-Demand AI & Data Science Job Roles
+<img width="1029" height="623" alt="image" src="https://github.com/user-attachments/assets/db992321-d23f-4d4d-8985-abc835ee6fd1" />
+4.Top Job Roles Across Experience Levels
+<img width="1108" height="624" alt="image" src="https://github.com/user-attachments/assets/2c70aa65-1132-4bd9-a462-1874a799668e" />
+5.Salary Distribution by Company Size
+<img width="801" height="546" alt="image" src="https://github.com/user-attachments/assets/ffab3736-94b3-462a-b232-fb5057285428" />
+6.Higest Paying Jobs....
+
+<img width="771" height="454" alt="image" src="https://github.com/user-attachments/assets/77718f1d-acb8-4494-a2c2-07a718cc737b" />
+7.Analysis of jobs on the basis of jobs title...
+<img width="593" height="453" alt="image" src="https://github.com/user-attachments/assets/4f209ff9-83fd-4a55-89c2-f892abc0c2ed" />
+8.Jobs wise years of experience....
+<img width="572" height="454" alt="image" src="https://github.com/user-attachments/assets/6bd2dc25-c319-490a-85dd-2ea869367527" />
+9.location wise industry.....
+<img width="632" height="322" alt="image" src="https://github.com/user-attachments/assets/407960a4-c813-4ef4-8a05-4bc808c8c914" />
+10.analysis of jobs location wise...<img width="566" height="453" alt="image" src="https://github.com/user-attachments/assets/df5979f0-c5de-4845-8dd2-0a9dd65375e1" />
+
+
+
+
+
+
 
 
 
